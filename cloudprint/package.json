@@ -4,9 +4,13 @@
   "private": true,
   "dependencies": {
     "axios": "^0.16.2",
+    "bootstrap": "^3.3.7",
+    "create-react-class": "^15.6.2",
     "material-ui": "^0.19.3",
     "react": "^16.0.0",
+    "react-bootstrap": "^0.31.3",
     "react-dom": "^16.0.0",
+    "react-router": "^4.2.0",
     "react-scripts": "1.0.14",
     "react-tap-event-plugin": "^3.0.2"
   },
